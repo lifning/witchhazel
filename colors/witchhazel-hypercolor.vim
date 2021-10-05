@@ -76,6 +76,9 @@ call <SID>X("Error", s:rouge, s:midnight, "")
 
 call <SID>X("pythonSpaceError", "", s:clay, "")
 
+call <SID>X("SignColumn", "", s:shadow, "")
+call <SID>X("Pmenu", "", s:midnight, "")
+
 "hi def link pythonDecoratorName         Define
 "hi link Conditional Keyword
 "hi link Repeat Keyword
