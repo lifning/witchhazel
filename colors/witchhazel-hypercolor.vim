@@ -70,7 +70,7 @@ call <SID>X("Cursor", "", s:linen, "")
 call <SID>X("CursorLine", "", s:amethyst, "")
 call <SID>X("ColorColumn", "", s:shadow, "")
 call <SID>X("Search", s:linen, s:amethyst, "")
-call <SID>X("Visual", s:purps, s:amethyst, "")
+call <SID>X("Visual", s:other, s:amethyst, "")
 call <SID>X("Todo", s:brick, s:purps, "bold")
 call <SID>X("Error", s:rouge, s:midnight, "")
 
